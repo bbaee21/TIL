@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
+
 test
 =======
-# test
-
 
 
 # Vue LifeCycle
@@ -37,5 +36,3 @@ test
   * (상황에 따라 다름, 페이지 생성 시 or 클릭 등등) actions로 서버와 통신해서 response(응답)을 받는다.
   * 받아온 데이터 값을 mutations을 통해서 state에 있는 변수에 담는다.
   * getters로 값을 가져와서 화면을 구성한다.
->>>>>>> 2fb16ec8083ce400f970e16c49751ecb91fc2187
-
